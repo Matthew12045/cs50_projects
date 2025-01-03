@@ -2,6 +2,5 @@
     "files.associations": {
         "cs50.h": "c"
     },
-    "gitdoc.enabled": true,
-    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe"
+    "gitdoc.enabled": true
 }
